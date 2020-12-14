@@ -3,7 +3,7 @@
 ## Search Engines
 |Website name|Description|Creator/Developer|URL|Haves HTTPS?|Alert|
 |:-|:-|:-|:-|:-:|:-|
-|DuckDuckGo|The famous private engine censured by Google haves a mirror .onion|[DuckDuckGo, Inc.](https://duckduckgo.com/about)|[https://3g2upl4pq6kufc4m.onion](https://3g2upl4pq6kufc4m.onion)|Yes||
+|DuckDuckGo|The famous private engine censured by Google haves a mirror .onion|[DuckDuckGo, Inc.](https://duckduckgo.com/about)|[https://3g2upl4pq6kufc4m.onion](https://3g2upl4pq6kufc4m.onion)|✅||
 ## Mail services
 |Website name|Description|Creator/Developer|URL|Haves HTTPS?|Alert|
 |:-|:-|:-|:-|:-:|:-|
