@@ -20,6 +20,8 @@
 |Spyware Watchdog (Mirror 2)|2/3 mirrors in Tor|[Shadow](https://codeberg.org/shadow)|[http://gkbbsxlasxsp3ygjbvctg4xieefugxdmbl4q7xgrxpy5izrhnrqkxryd.onion](http://gkbbsxlasxsp3ygjbvctg4xieefugxdmbl4q7xgrxpy5izrhnrqkxryd.onion)|❎||
 |Spyware Watchdog (Mirror 3)|3/3 mirrors in Tor|[Shadow](https://codeberg.org/shadow)|[http://spywareitdaiuyfo2sqb5vsg7mek5cjabdr73luhnda57t2hyuzg7yyd.onion](http://spywareitdaiuyfo2sqb5vsg7mek5cjabdr73luhnda57t2hyuzg7yyd.onion)|❎||
 ## More
+|Website name|Description|Creator/Developer|URL|Haves HTTPS?|Alert|
+|:-|:-|:-|:-|:-:|:-|
 |searx.space|Find a Searx instance|[Searx](https://searx.me)|[http://searxspbitokayvkhzhsnljde7rqmn7rvoga6e4waeub3h7ug3nghoad.onion](http://searxspbitokayvkhzhsnljde7rqmn7rvoga6e4waeub3h7ug3nghoad.onion)|❎||
 
 -----
