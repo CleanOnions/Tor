@@ -12,6 +12,10 @@
 |Website name|Description|Creator/Developer|URL|Haves HTTPS?|Alert|
 |:-|:-|:-|:-|:-:|:-|
 |Kaffie's Blog|Kaffie's Blog|[Kaffie](http://localhost:43110/kaffie.bit)|[1N6zp6jCXPBktNMPfe7UJBpQGyfCq7k2M8](http://localhost:43110/1N6zp6jCXPBktNMPfe7UJBpQGyfCq7k2M8)||
+## Informative webpages
+|Website name|Description|Creator/Developer|URL|Haves HTTPS?|Alert|
+|:-|:-|:-|:-|:-:|:-|
+|Spyware Watchdog|The goal of this website is to classify spyware programs, so that users can be more aware that they are installing spyware|[Shadow](https://codeberg.org/shadow)|[http://spywaredrcdg5krvjnukp3vbdwiqcv3zwbrcg6qh27kiwecm4qyfphid.onion](http://spywaredrcdg5krvjnukp3vbdwiqcv3zwbrcg6qh27kiwecm4qyfphid.onion)|❎||
 ## More
 |Website name|Description|Creator/Developer|URL|Haves HTTPS?|Alert|
 |:-|:-|:-|:-|:-:|:-|
