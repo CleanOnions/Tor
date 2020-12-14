@@ -8,6 +8,10 @@
 |Website name|Description|Creator/Developer|URL|Haves HTTPS?|Alert|
 |:-|:-|:-|:-|:-:|:-|
 |ProtonMail|Secure mail service based in Switzerland, for the Clearnet|[Proton Technologies AG.](https://protonmail.com/about)|[https://protonirockerxow.onion](https://protonirockerxow.onion)|✅||
+## Social media
+|Website name|Description|Creator/Developer|URL|Haves HTTPS?|Alert|
+|:-|:-|:-|:-|:-:|:-|
+|Facebook|Facebook website mirrors in Tor|[Facebook, Inc.](https://about.fb.com)|[https://facebookcorewwwi.onion](https://facebookcorewwwi.onion)|✅||
 ## Informative webpages
 |Website name|Description|Creator/Developer|URL|Haves HTTPS?|Alert|
 |:-|:-|:-|:-|:-:|:-|
