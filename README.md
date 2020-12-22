@@ -14,6 +14,8 @@
 |Website name|Description|Creator/Developer|URL|Haves HTTPS?|Alert|
 |:-|:-|:-|:-|:-:|:-|
 |Facebook|Facebook website mirrors in Tor|[Facebook, Inc.](https://about.fb.com)|[https://facebookcorewwwi.onion](https://facebookcorewwwi.onion)|Yes ✅||
+|Nitter (NixNet)|[Nitter](https://nitter.net) instance of [NixNet](https://nixnet.services)|[NixNet](https://nixnet.services) [zedeus](https://github.com/zedeus) & [contributors](https://github.com/zedeus/nitter/graphs/contributors) (Software)|[https://facebookcorewwwi.onion](https://facebookcorewwwi.onion)|Yes ✅||
+
 ## Informative webpages
 |Website name|Description|Creator/Developer|URL|Haves HTTPS?|Alert|
 |:-|:-|:-|:-|:-:|:-|
