@@ -4,7 +4,8 @@
 |Website name|Description|Creator/Developer|URL|Haves HTTPS?|Alert|
 |:-|:-|:-|:-|:-:|:-|
 |DuckDuckGo|The famous private engine censured by Google haves a mirror .onion|[DuckDuckGo, Inc.](https://duckduckgo.com/about)|[https://3g2upl4pq6kufc4m.onion](https://3g2upl4pq6kufc4m.onion)|Yes ✅||
-|DuckDuckGo|[Searx](https://searx.me) instance of [Snopyta](https://snopyta.org)|[Snopyta](https://snopyta.org) (Hosting) - [Searx community](https://searx.me) (Software)|[https://3g2upl4pq6kufc4m.onion](https://3g2upl4pq6kufc4m.onion)|Yes ✅||
+|Snopyta Searx|[Searx](https://searx.me) instance of [Snopyta](https://snopyta.org)|[Snopyta](https://snopyta.org) (Hosting) - [Searx community](https://searx.me) (Software)|[http://yra4tke2pwcnatxjkufpw6kvebu3h3ti2jca2lcdpgx3mpwol326lzid.onion](http://yra4tke2pwcnatxjkufpw6kvebu3h3ti2jca2lcdpgx3mpwol326lzid.onion)|No ❎||
+|searx (Nitnet)|[Searx](https://searx.me) instance of [NixNet](https://nixnet.services)|[NixNet](https://nixnet.services) (Hosting) - [Searx community](https://searx.me) (Software)|[http://searx.l4qlywnpwqsluw65ts7md3khrivpirse744un3x7mlskqauz5pyuzgqd.onion](http://searx.l4qlywnpwqsluw65ts7md3khrivpirse744un3x7mlskqauz5pyuzgqd.onion)|No ❎||
 ## Mail services
 |Website name|Description|Creator/Developer|URL|Haves HTTPS?|Alert|
 |:-|:-|:-|:-|:-:|:-|
